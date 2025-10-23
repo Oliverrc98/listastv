@@ -28,7 +28,9 @@ https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="🇵🇪 PERÚ",La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Canal_N_2006-2017_%28con_l%C3%ADnea%29.png" group-title="🇵🇪 PERÚ",Canal N
-http://181.188.216.5:18000/play/a01p/index.m3u8
+http://179.51.136.19:8000/play/a16u/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Canal_N_2006-2017_%28con_l%C3%ADnea%29.png" group-title="🇵🇪 PERÚ",Nativa
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 # ======================================
 # ⚽ DEPORTES
 # ======================================
