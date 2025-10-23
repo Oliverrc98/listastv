@@ -63,7 +63,7 @@ http://181.78.201.70:8000/play/a0tx/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="⚽ DEPORTES",WIN SPORTS PLUS
 http://179.51.136.19:8000/play/a1bp/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDaWhku5bCW4lgn4yGqHUbyzKHywCttgjow&s" group-title="⚽ DEPORTES",MOVISTAR DEPORTES
-https://ym9yzq.fubohd.com:443/movistar/mono.m3u8?token=4d8571d4543a5f6afa311f817f98ed3cd20d4ed7-46-1761256379-1761238379
+http://179.51.136.19:8000/play/a0zj/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/2/fox-sports-2-argentina-2023-logo-png_seeklogo-471070.png" group-title="⚽ DEPORTES",FOX SPORTS 2
 http://181.78.106.127:9000/play/ca032/index.m3u8
 # ======================================
