@@ -64,8 +64,8 @@ http://181.78.201.70:8000/play/a0fq/index.m3u8
 http://181.78.201.70:8000/play/a0tx/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="⚽ DEPORTES",WIN SPORTS PLUS
 http://179.51.136.19:8000/play/a1bp/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDaWhku5bCW4lgn4yGqHUbyzKHywCttgjow&s" group-title="⚽ DEPORTES",MOVISTAR DEPORTES
-http://179.51.136.19:8000/play/a0zj/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20180803141855" group-title="⚽ DEPORTES",Claro Sports 2
+http://179.51.136.19:8000/play/a16q/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/2/fox-sports-2-argentina-2023-logo-png_seeklogo-471070.png" group-title="⚽ DEPORTES",FOX SPORTS 2
 http://181.78.106.127:9000/play/ca032/index.m3u8
 # ======================================
@@ -180,8 +180,8 @@ http://181.119.86.68:8000/play/b014/index.m3u8
 http://179.51.136.19:8000/play/a1am/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Cinecanal_logo_2021.svg" group-title="🏆 PREMIUM",Cinecanal
 http://181.119.86.68:8000/play/b036/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Cinecanal_logo_2021.svg" group-title="🏆 PREMIUM",Movistar Plus
-http://179.51.136.19:8000/play/a0zm/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Cinecanal_logo_2021.svg" group-title="🏆 PREMIUM",Canal Claro
+http://200.60.124.19:29000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Cinecanal_logo_2021.svg" group-title="🏆 PREMIUM",Movistar TV
 http://179.51.136.19:8000/play/a1hu/index.m3u8
 # ======================================
