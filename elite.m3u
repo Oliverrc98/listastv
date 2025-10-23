@@ -41,7 +41,7 @@ http://179.51.136.19:8000/play/a113/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="⚽ DEPORTES",LIGA 1 MAX
 http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ DEPORTES",ESPN
-https://x4bnd7lq.fubohd.com:443/espnar/mono.m3u8?token=101d897cdcef0597db211567862d6f785806067f-bd-1761256334-1761238334
+http://fortv.cc:8080/90820916/64752029/86765
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="⚽ DEPORTES",ESPN 2
 http://181.119.86.68:8000/play/b032/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1024px-ESPN3_logo.svg.png" group-title="⚽ DEPORTES",ESPN 3
