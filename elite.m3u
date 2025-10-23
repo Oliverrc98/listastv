@@ -41,7 +41,7 @@ http://179.51.136.19:8000/play/a113/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="⚽ DEPORTES",LIGA 1 MAX
 http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ DEPORTES",ESPN
-https://ag9wzq.fubohd.com:443/espnar/mono.m3u8?token=47eca76acfae27ba9b57640f9af81040ed0b35ce-b7-1761215003-1761197003
+https://x4bnd7lq.fubohd.com:443/espnar/mono.m3u8?token=101d897cdcef0597db211567862d6f785806067f-bd-1761256334-1761238334
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="⚽ DEPORTES",ESPN 2
 http://181.119.86.68:8000/play/b032/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1024px-ESPN3_logo.svg.png" group-title="⚽ DEPORTES",ESPN 3
@@ -63,7 +63,7 @@ http://181.78.201.70:8000/play/a0tx/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="⚽ DEPORTES",WIN SPORTS PLUS
 http://179.51.136.19:8000/play/a1bp/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDaWhku5bCW4lgn4yGqHUbyzKHywCttgjow&s" group-title="⚽ DEPORTES",MOVISTAR DEPORTES
-https://rm8zcvk3.fubohd.com:443/movistar/mono.m3u8?token=a823150344598f6002e3e908e431284a1c1a3a55-1f-1761215045-1761197045
+https://ym9yzq.fubohd.com:443/movistar/mono.m3u8?token=4d8571d4543a5f6afa311f817f98ed3cd20d4ed7-46-1761256379-1761238379
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/2/fox-sports-2-argentina-2023-logo-png_seeklogo-471070.png" group-title="⚽ DEPORTES",FOX SPORTS 2
 http://181.78.106.127:9000/play/ca032/index.m3u8
 # ======================================
