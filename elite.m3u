@@ -21,10 +21,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/atv_abr/playlist.m3u8?uid=6431743
 https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8?uid=6431743
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="🇵🇪 PERÚ",EXITOSA HD
 https://live-evg20.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8?uid=6431743
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="🇵🇪 PERÚ",Nativa HD
-https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/640px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="🇵🇪 PERÚ",TV Perú
-https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/playlist.m3u8?uid=6431743
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="🇵🇪 PERÚ",Planeta TV
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="🇵🇪 PERÚ",Cadena TV
+https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="🇵🇪 PERÚ",La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Canal_N_2006-2017_%28con_l%C3%ADnea%29.png" group-title="🇵🇪 PERÚ",Canal N
