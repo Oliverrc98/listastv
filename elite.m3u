@@ -178,6 +178,10 @@ http://181.119.86.68:8000/play/b014/index.m3u8
 http://179.51.136.19:8000/play/a1am/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Cinecanal_logo_2021.svg" group-title="🏆 PREMIUM",Cinecanal
 http://181.119.86.68:8000/play/b036/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Cinecanal_logo_2021.svg" group-title="🏆 PREMIUM",Movistar Plus
+http://179.51.136.19:8000/play/a0zm/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Cinecanal_logo_2021.svg" group-title="🏆 PREMIUM",Movistar TV
+http://179.51.136.19:8000/play/a1hu/index.m3u8
 # ======================================
 # 🌎 LATINOAMÉRICA
 # ======================================
