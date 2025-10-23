@@ -23,8 +23,8 @@ https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8?uid=6431743
 https://live-evg20.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8?uid=6431743
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="🇵🇪 PERÚ",Nativa HD
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="🇵🇪 PERÚ",USMP TV
-https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="🇵🇪 PERÚ",TVNoticias73.pe
+https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="🇵🇪 PERÚ",La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Canal_N_2006-2017_%28con_l%C3%ADnea%29.png" group-title="🇵🇪 PERÚ",Canal N
@@ -41,7 +41,7 @@ http://179.51.136.19:8000/play/a113/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="⚽ DEPORTES",LIGA 1 MAX
 http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ DEPORTES",ESPN
-https://anvtcax.fubohd.com:443/espnar/mono.m3u8?token=2a508ac0e794daac045e3802d34d99e026252c45-93-1761208643-1761190643
+https://ag9wzq.fubohd.com:443/espnar/mono.m3u8?token=47eca76acfae27ba9b57640f9af81040ed0b35ce-b7-1761215003-1761197003
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="⚽ DEPORTES",ESPN 2
 http://181.119.86.68:8000/play/b032/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1024px-ESPN3_logo.svg.png" group-title="⚽ DEPORTES",ESPN 3
@@ -63,7 +63,7 @@ http://181.78.201.70:8000/play/a0tx/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="⚽ DEPORTES",WIN SPORTS PLUS
 http://179.51.136.19:8000/play/a1bp/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDaWhku5bCW4lgn4yGqHUbyzKHywCttgjow&s" group-title="⚽ DEPORTES",MOVISTAR DEPORTES
-https://aw1wcm92zq.fubohd.com/movistar/mono.m3u8?token=0ce96fc5755ab80a68f0331d0fa9fdc0aa930922-c8-1760386992-1760368992
+https://rm8zcvk3.fubohd.com:443/movistar/mono.m3u8?token=a823150344598f6002e3e908e431284a1c1a3a55-1f-1761215045-1761197045
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/2/fox-sports-2-argentina-2023-logo-png_seeklogo-471070.png" group-title="⚽ DEPORTES",FOX SPORTS 2
 http://181.78.106.127:9000/play/ca032/index.m3u8
 # ======================================
