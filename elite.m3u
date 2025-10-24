@@ -205,8 +205,8 @@ http://181.78.14.26:8000/play/a00d
 https://tu-url/rcn.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telefe_logo_2018.svg" group-title="🌎 LATINOAMÉRICA",Telefe
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Canal_13_%28Chile%29_logo.svg" group-title="🌎 LATINOAMÉRICA",Canal 13 Chile
-http://38.250.127.17:9800/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Canal_13_%28Chile%29_logo.svg" group-title="🌎 LATINOAMÉRICA",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Unitel_Bolivia_logo.svg" group-title="🌎 LATINOAMÉRICA",Unitel Bolivia
 https://master.tucableip.com/tvhome/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title="🌎 LATINOAMÉRICA",Las Estrellas MX
