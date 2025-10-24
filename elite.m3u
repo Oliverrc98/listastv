@@ -203,8 +203,8 @@ http://181.119.85.222:8000/play/a013/index.m3u8
 # ======================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Caracol_Televisi%C3%B3n_logo.svg" group-title="🌎 LATINOAMÉRICA",Caracol TV
 http://181.119.85.222:8000/play/a02p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Canal_RCN_logo_2021.svg" group-title="🌎 LATINOAMÉRICA",RCN
-https://tu-url/rcn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Canal_RCN_logo_2021.svg" group-title="🌎 LATINOAMÉRICA",Telemax
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telefe_logo_2018.svg" group-title="🌎 LATINOAMÉRICA",Telefe
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Canal_13_%28Chile%29_logo.svg" group-title="🌎 LATINOAMÉRICA",El Trece
