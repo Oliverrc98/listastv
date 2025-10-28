@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-INDEPENDENT-SEGMENTS
+# ======================================
+#  💥 ACCIÓN
+# ======================================
+#EXTINF:-1 tvg-logo="https://mirandogratis.com/wp-content/uploads/2024/08/Deadpool-Wolverine-140x200.jpg" group-title="💥 ACCIÓN",DeadPool & Wolverine
+https://be2719.rcr22.ams01.i8yz83pn.com/hls2/01/06985/1s8re8ljfpwm_h/master.m3u8?t=2aCXnvkqlOpXIf7zaFCxDeli4JgZLcZWeCb5L-9Q3V0&s=1761676686&e=10800&f=34929849&srv=52&asn=6147&sp=4000&p=
+#EXTINF:-1 tvg-logo="https://mirandogratis.com/wp-content/uploads/2025/01/sonic_the_hedgeh-125x185.jpg" group-title="💥 ACCIÓN ",Sonic 3 La Película
+https://s6.vimeos.net/hls2/02/00000/vkle2ldcgqzb_h/master.m3u8?t=5sJqkkQtP6JXcaknF2Ed-TjBnFbYWj7SmjsCi9cX7Tk&s=1761678383&e=43200&v=20644007&i=0.0&sp=0&r=e
+# ======================================
+# 🧟 ZOMBIES
+# ======================================
+#EXTINF:-1 tvg-logo="https://allpeliculas.se/wp-content/uploads/thumbs/978e3afce8d087e72c4feb7843617d8e_hd.webp" group-title="🧟 ZOMBIES",Marvel Zombies: Temporada 1 Episodio 1
+https://s9.vimeos.net/hls2/01/00005/69m90asp7hvy_h/master.m3u8?t=rWKH-Cvi_qZ7L1JkuLr9cQNAaTz2DDB9dcJv5ePC61Y&s=1761679675&e=43200&v=20653267&i=0.3&sp=0&fr=69m90asp7hvy&r=e
+#EXTINF:-1 tvg-logo="https://allpeliculas.se/wp-content/uploads/thumbs/978e3afce8d087e72c4feb7843617d8e_hd.webp" group-title="🧟 ZOMBIES",Marvel Zombies: Temporada 1 Episodio 2
+https://s9.vimeos.net/hls2/01/00005/6tuvg1fa0x7c_h/master.m3u8?t=jhIhtqCmrOpTZjYNs01NPSqf7bA1w7ddO2JgI6kkxFQ&s=1761679830&e=43200&v=20653969&i=0.3&sp=0&fr=6tuvg1fa0x7c&r=e
+#EXTINF:-1 tvg-logo="https://allpeliculas.se/wp-content/uploads/thumbs/978e3afce8d087e72c4feb7843617d8e_hd.webp" group-title="🧟 ZOMBIES",Marvel Zombies: Temporada 1 Episodio 3
+https://s9.vimeos.net/hls2/01/00005/yjhxf602rdwx_h/master.m3u8?t=9fog0nsEVPMKN0rBniFUXkKt0vcg79tnVTQTOiID_VI&s=1761679985&e=43200&v=20655053&i=0.0&sp=0&fr=yjhxf602rdwx&r=e
+#EXTINF:-1 tvg-logo="https://allpeliculas.se/wp-content/uploads/thumbs/978e3afce8d087e72c4feb7843617d8e_hd.webp" group-title="🧟 ZOMBIES",Marvel Zombies: Temporada 1 Episodio 4
+https://s9.vimeos.net/hls2/01/00005/lfortcqkcknn_h/master.m3u8?t=LdwvOeQ64h_11pK1rUOpkQJk2wYZT6BDr56gSV96a5M&s=1761680128&e=43200&v=20656096&i=0.3&sp=0&fr=lfortcqkcknn&r=e
