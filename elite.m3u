@@ -4,25 +4,25 @@
 # 🇵🇪 PERÚ
 # ======================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/125px-Latina_Television_-_Logotipo.png" group-title="🇵🇪 PERÚ",Latina
-https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/playlist.m3u8?uid=6431743
+https://live-evg20.tv360.bitel.com.pe/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="🇵🇪 PERÚ",America TV
-https://live-evg5.tv360.bitel.com.pe/bitel/america_tv_abr/playlist.m3u8?uid=6431743
+https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="🇵🇪 PERÚ",Panamericana
-https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/playlist.m3u8?uid=6431743
+https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="🇵🇪 PERÚ",RPP
 https://mdstrm.com/live-stream-playlist/68b9f14bd7cd40aa500402b1.m3u8?uid=ea3F6IUJU8hLVFj3lmXrsQ8VmV1V3Ge0&sid=9rTWnYhDThCgfwhIcB5dcbp5cz8HOoRf&pid=9QXF8rfehqlNfV6mrnuPJxbm1TjwR5rU&pid_dvr=nDw7kI8LpP185fgYHqeLQBqhYEuqdryY&an=screen&at=web-app&av=v6.0.212&ref=https%3A%2F%2Frpp.pe%2F&res=950x534&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/09fTImypb8VBPLb30eTBj8bHoBZ89GY5F44vub3__ETtJa9uFDBRxE9IR5qhgLYQN2KeNITY--8=s900-c-k-c0x00ffffff-no-rj" group-title="🇵🇪 PERÚ",PLUS LIFE
 http://179.51.136.19:8000/play/a0zm/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="🇵🇪 PERÚ",TV Noticias 7.3
-https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mindef.nec.pe/wp-content/uploads/2021/01/SolTV.png" group-title="🇵🇪 PERÚ",Sol TV
 https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="🇵🇪 PERÚ",ATV HD
-https://live-evg11.tv360.bitel.com.pe/bitel/atv_abr/playlist.m3u8?uid=6431743
+https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="🇵🇪 PERÚ",WILLAX HD
-https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8?uid=6431743
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="🇵🇪 PERÚ",EXITOSA HD
-https://live-evg20.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8?uid=6431743
+https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="🇵🇪 PERÚ",Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="🇵🇪 PERÚ",Cadena TV
